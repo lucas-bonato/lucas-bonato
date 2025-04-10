@@ -7,20 +7,19 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg">
   <img align="center" alt="Js" height="36" width="46" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="Angular" height="36" width="46" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" />
   <img align="center" alt="HTML" height="36" width="46" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="36" width="46" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="36" width="46" 
+  <img align="center" alt="JS" height="36" width="46" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TS" height="36" width="46" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
 </div>
 
   ###
-
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bon4to&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-  
   ##
  
 <div> 

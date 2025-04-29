@@ -7,8 +7,6 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg">
   <img align="center" alt="Js" height="36" width="46" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Angular" height="36" width="46" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" />
   <img align="center" alt="HTML" height="36" width="46" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="36" width="46" 

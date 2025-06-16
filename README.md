@@ -41,7 +41,3 @@
 </div>
 
 ---
-
-### ⚡ **Fun fact**  
-I speak fluent **code**, **coffee**, and **debugging under pressure** ☕🐛💥  
-Always shipping, always learning.  

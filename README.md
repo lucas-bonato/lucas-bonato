@@ -22,6 +22,9 @@ I'm **Lucas**, a software engineer who loves to build **things** and see them wo
 
 ### 📫 Contact  
 <p>
+  <a href="mailto:bon4to@icloud.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="30" />
+  </a>
   <a href="mailto:lucasbon4to@gmail.com">
     <img style="width: 30px; margin-right: 10px;" src="https://skillicons.dev/icons?i=gmail&theme=light" />
   </a>

@@ -16,7 +16,7 @@ I'm **Lucas**, a software engineer who loves to build **things** and see them wo
   <img src="https://img.shields.io/badge/Flask-Framework-lightgrey?style=flat&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-Framework-092E20?style=flat&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Jinja2-Template-B41717?style=flat&logo=jinja&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-Utility--First-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-ML-orange?style=flat&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Axios-HTTP--Client-5A29E4?style=flat&logo=axios&logoColor=white" />
   <img src="https://img.shields.io/badge/Neovim-Editor-57A143?style=flat&logo=neovim&logoColor=white" />

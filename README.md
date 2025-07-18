@@ -1,6 +1,6 @@
 ## 👋 Welcome!
 
-I'm **Lucas**, a software engineer who loves to build **things** and see them working.  
+I'm **Lucas**, a software engineer.  
 > Focused on **backend** and **fullstack development**.
 
 ---
@@ -26,9 +26,8 @@ I'm **Lucas**, a software engineer who loves to build **things** and see them wo
 
 ---
 
-- 🚀 Focus on **Go**, **Python**, and fullstack development  
-- 🧩 3+ years developing end-to-end applications  
-- 💡 I love understanding how things are built
+- Focus on **Go**, **Python**, and fullstack development  
+- 3+ years developing end-to-end applications  
 
 ---
 
